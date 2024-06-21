@@ -2,4 +2,4 @@
 
 **`Application Craftsman`**
 
-Hi! My name is Rishi and I to code!
+Hi! My name is Rishi and I code!
